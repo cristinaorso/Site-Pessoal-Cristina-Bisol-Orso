@@ -30,7 +30,6 @@ Site-Pessoal-Cristina-Bisol-Orso/
 │── index.html      # Main website structure
 │── style.css       # Visual styling
 │── script.js       # Interactive features
-│── CRISTINA.png    # Main image used in the project
 │── README.md       # Project documentation
 ```
 
